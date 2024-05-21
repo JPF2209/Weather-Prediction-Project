@@ -1,0 +1,1732 @@
+{
+  "More Data Points": {
+    "-NvtDqwn_Pz-GKmKOgud": {
+      "Date": 1713578405.152761,
+      "Humidity": 60,
+      "Light Intensity": 403.33333333333337,
+      "Temperature": 16
+    },
+    "-NvtGAPrSODWGKxnq1mY": {
+      "Date": 1713579008.298413,
+      "Humidity": 61,
+      "Light Intensity": 366.6666666666667,
+      "Temperature": 16
+    },
+    "-NvtIT60vXLQxymUvQ0w": {
+      "Date": 1713579614.17834,
+      "Humidity": 61,
+      "Light Intensity": 477.08333333333337,
+      "Temperature": 16
+    },
+    "-NvtKlLfUsLby_mxuQlm": {
+      "Date": 1713580217.274328,
+      "Humidity": 63,
+      "Light Intensity": 754.5833333333334,
+      "Temperature": 15
+    },
+    "-NvtN320qJehq93CPMKA": {
+      "Date": 1713580818.134348,
+      "Humidity": 63,
+      "Light Intensity": 494.1666666666667,
+      "Temperature": 15
+    },
+    "-NvtPLjDWZQG4ZpNcnp5": {
+      "Date": 1713581418.986857,
+      "Humidity": 64,
+      "Light Intensity": 690.8333333333334,
+      "Temperature": 15
+    },
+    "-NvtRdyc3FwJLx8Ot0Va": {
+      "Date": 1713582022.090223,
+      "Humidity": 64,
+      "Light Intensity": 578.75,
+      "Temperature": 15
+    },
+    "-NvtTwen1lSI-ZTyucSp": {
+      "Date": 1713582622.934277,
+      "Humidity": 64,
+      "Light Intensity": 325,
+      "Temperature": 15
+    },
+    "-NvtWELwkp0fB7XcJ-JI": {
+      "Date": 1713583223.774887,
+      "Humidity": 64,
+      "Light Intensity": 617.9166666666667,
+      "Temperature": 15
+    },
+    "-NvtYX28gWt5uVVs6oYC": {
+      "Date": 1713583824.610298,
+      "Humidity": 63,
+      "Light Intensity": 1607.5,
+      "Temperature": 15
+    },
+    "-Nvt_ojGgXRlbGL3c0hM": {
+      "Date": 1713584425.455026,
+      "Humidity": 63,
+      "Light Intensity": 1091.6666666666667,
+      "Temperature": 15
+    },
+    "-Nvtc6QLJBTtz4dtmDMS": {
+      "Date": 1713585026.293361,
+      "Humidity": 63,
+      "Light Intensity": 605,
+      "Temperature": 15
+    },
+    "-NvteP6WOfTbE2FCV88s": {
+      "Date": 1713585627.131133,
+      "Humidity": 63,
+      "Light Intensity": 1037.0833333333335,
+      "Temperature": 16
+    },
+    "-Nvtggnc9nspc9L_EJSL": {
+      "Date": 1713586227.975584,
+      "Humidity": 62,
+      "Light Intensity": 967.9166666666667,
+      "Temperature": 16
+    },
+    "-NvtizW7VIcwyPyw_TOm": {
+      "Date": 1713586828.81466,
+      "Humidity": 62,
+      "Light Intensity": 971.6666666666667,
+      "Temperature": 16
+    },
+    "-NvtlHkQCqvS1CbUWbDG": {
+      "Date": 1713587431.997327,
+      "Humidity": 60,
+      "Light Intensity": 976.6666666666667,
+      "Temperature": 17
+    },
+    "-Nvtn_zoQGjXDdFT-6ts": {
+      "Date": 1713588035.086872,
+      "Humidity": 59,
+      "Light Intensity": 701.25,
+      "Temperature": 17
+    },
+    "-NvtpsfxqJKUJLRi20-z": {
+      "Date": 1713588635.93044,
+      "Humidity": 59,
+      "Light Intensity": 331.25,
+      "Temperature": 17
+    },
+    "-NvtsAN9_gWgoUzWOyTo": {
+      "Date": 1713589236.773789,
+      "Humidity": 59,
+      "Light Intensity": 762.0833333333334,
+      "Temperature": 17
+    },
+    "-NvtuT3FDZccf8HmnICh": {
+      "Date": 1713589837.615323,
+      "Humidity": 59,
+      "Light Intensity": 619.5833333333334,
+      "Temperature": 17
+    },
+    "-NvtwkkN2tkRGVRiJNJE": {
+      "Date": 1713590438.45245,
+      "Humidity": 59,
+      "Light Intensity": 530,
+      "Temperature": 17
+    },
+    "-Nvtz2zizZHDc0OOGUwQ": {
+      "Date": 1713591041.546456,
+      "Humidity": 60,
+      "Light Intensity": 495.4166666666667,
+      "Temperature": 16
+    },
+    "-Nvu0LfvPTpLXSmUkSC1": {
+      "Date": 1713591642.384997,
+      "Humidity": 61,
+      "Light Intensity": 585,
+      "Temperature": 16
+    },
+    "-Nvu2dMy8pS5dr4rhXCi": {
+      "Date": 1713592243.229697,
+      "Humidity": 61,
+      "Light Intensity": 164.16666666666669,
+      "Temperature": 16
+    },
+    "-Nvu4wbHwLCErmD28Uru": {
+      "Date": 1713592846.317697,
+      "Humidity": 62,
+      "Light Intensity": 375.4166666666667,
+      "Temperature": 16
+    },
+    "-Nvu7EINr5QT1SmIFQqx": {
+      "Date": 1713593447.156198,
+      "Humidity": 62,
+      "Light Intensity": 142.91666666666669,
+      "Temperature": 16
+    },
+    "-Nvu9WzYkxge2dyCIVyp": {
+      "Date": 1713594047.997585,
+      "Humidity": 62,
+      "Light Intensity": 65.41666666666667,
+      "Temperature": 16
+    },
+    "-NvuBpFKME5Xenlcb-cw": {
+      "Date": 1713594651.094143,
+      "Humidity": 63,
+      "Light Intensity": 67.08333333333334,
+      "Temperature": 15
+    },
+    "-NvuE6ySvQiR1E-_2ykk": {
+      "Date": 1713595252.026845,
+      "Humidity": 63,
+      "Light Intensity": 148.75,
+      "Temperature": 15
+    },
+    "-NvuGPedg-xHfeukCIIY": {
+      "Date": 1713595852.990172,
+      "Humidity": 63,
+      "Light Intensity": 72.91666666666667,
+      "Temperature": 15
+    },
+    "-NvuIi3MfWFVsaMMfA4B": {
+      "Date": 1713596456.085491,
+      "Humidity": 63,
+      "Light Intensity": 77.5,
+      "Temperature": 15
+    },
+    "-NvuL-ke85QAwltDGrzO": {
+      "Date": 1713597057.584411,
+      "Humidity": 63,
+      "Light Intensity": 47.91666666666667,
+      "Temperature": 15
+    },
+    "-NvyNRZvw2PWdR0VlgUF": {
+      "Date": 1713664804.702214,
+      "Humidity": 63,
+      "Light Intensity": 497.5,
+      "Temperature": 16
+    },
+    "-NvyPkFSlf6JoKGgs2Nr": {
+      "Date": 1713665404.544774,
+      "Humidity": 63,
+      "Light Intensity": 27306.25,
+      "Temperature": 16
+    },
+    "-NvyS1gyD8IwOHcQcNcV": {
+      "Date": 1713666009.445634,
+      "Humidity": 63,
+      "Light Intensity": 830,
+      "Temperature": 16
+    },
+    "-NvyUK8sZiS126lJEwt6": {
+      "Date": 1713666609.2909,
+      "Humidity": 62,
+      "Light Intensity": 404.1666666666667,
+      "Temperature": 17
+    },
+    "-NvyWc8o1955PXWFqGYG": {
+      "Date": 1713667211.405606,
+      "Humidity": 58,
+      "Light Intensity": 420.4166666666667,
+      "Temperature": 18
+    },
+    "-NvyYuaW4mpn1sovD1mz": {
+      "Date": 1713667811.252406,
+      "Humidity": 56,
+      "Light Intensity": 462.5,
+      "Temperature": 18
+    },
+    "-NvyaC2btpTpS5101YSN": {
+      "Date": 1713668411.113971,
+      "Humidity": 56,
+      "Light Intensity": 495,
+      "Temperature": 18
+    },
+    "-NvycUV8gKbkW4L7t3Lm": {
+      "Date": 1713669010.98213,
+      "Humidity": 56,
+      "Light Intensity": 589.5833333333334,
+      "Temperature": 18
+    },
+    "-NvyelwnEl-iNLVyO5cz": {
+      "Date": 1713669610.82558,
+      "Humidity": 57,
+      "Light Intensity": 557.9166666666667,
+      "Temperature": 18
+    },
+    "-Nvyh3OZHa1xEEDqru7w": {
+      "Date": 1713670210.674813,
+      "Humidity": 57,
+      "Light Intensity": 859.5833333333334,
+      "Temperature": 18
+    },
+    "-NvyjLq86lcrEvpguVtD": {
+      "Date": 1713670810.532627,
+      "Humidity": 57,
+      "Light Intensity": 636.25,
+      "Temperature": 18
+    },
+    "-NvyldHiCaQ_370aqE3g": {
+      "Date": 1713671410.376233,
+      "Humidity": 57,
+      "Light Intensity": 536.6666666666667,
+      "Temperature": 18
+    },
+    "-Nvynvj87ouoVKHSBTvL": {
+      "Date": 1713672010.217348,
+      "Humidity": 56,
+      "Light Intensity": 539.5833333333334,
+      "Temperature": 18
+    },
+    "-NvyqDAWHF-CmPkcyGKt": {
+      "Date": 1713672610.047322,
+      "Humidity": 55,
+      "Light Intensity": 4576.666666666667,
+      "Temperature": 19
+    },
+    "-NvysVc3lIFuR5_OqJyY": {
+      "Date": 1713673209.879805,
+      "Humidity": 54,
+      "Light Intensity": 499.1666666666667,
+      "Temperature": 19
+    },
+    "-Nvyun3r7mDtnYJ08lOL": {
+      "Date": 1713673809.72992,
+      "Humidity": 53,
+      "Light Intensity": 933.75,
+      "Temperature": 19
+    },
+    "-Nvyx4WQC0iCJxICFjUH": {
+      "Date": 1713674409.590985,
+      "Humidity": 53,
+      "Light Intensity": 485,
+      "Temperature": 19
+    },
+    "-NvyzMy5ka6WMspzsBDs": {
+      "Date": 1713675009.434144,
+      "Humidity": 53,
+      "Light Intensity": 492.9166666666667,
+      "Temperature": 19
+    },
+    "-Nvz0f-2HJoTtQGdQvHh": {
+      "Date": 1713675611.540003,
+      "Humidity": 51,
+      "Light Intensity": 506.25,
+      "Temperature": 19
+    },
+    "-Nvz2xRw8_N245S345s1": {
+      "Date": 1713676211.518392,
+      "Humidity": 49,
+      "Light Intensity": 793.75,
+      "Temperature": 19
+    },
+    "-Nvz5FRukZx6vkQPcgiT": {
+      "Date": 1713676813.649635,
+      "Humidity": 48,
+      "Light Intensity": 1273.3333333333335,
+      "Temperature": 19
+    },
+    "-Nvz7YRVgIe5ZYeO-DB6": {
+      "Date": 1713677415.749364,
+      "Humidity": 47,
+      "Light Intensity": 350.4166666666667,
+      "Temperature": 19
+    },
+    "-Nvz9pwCz_SfKSAvm2HT": {
+      "Date": 1713678015.580966,
+      "Humidity": 48,
+      "Light Intensity": 330,
+      "Temperature": 19
+    },
+    "-NvzC7NsDon9kMs3YE0Q": {
+      "Date": 1713678615.629789,
+      "Humidity": 49,
+      "Light Intensity": 326.25,
+      "Temperature": 19
+    },
+    "-NvzEPpPwX6acFOae-Vf": {
+      "Date": 1713679215.481427,
+      "Humidity": 49,
+      "Light Intensity": 347.08333333333337,
+      "Temperature": 19
+    },
+    "-NvzGhpCmJLRv4Vfsw6R": {
+      "Date": 1713679817.576806,
+      "Humidity": 50,
+      "Light Intensity": 445.83333333333337,
+      "Temperature": 19
+    },
+    "-NvzJ-p0hDhpkIAFgtdY": {
+      "Date": 1713680419.677166,
+      "Humidity": 51,
+      "Light Intensity": 552.0833333333334,
+      "Temperature": 19
+    },
+    "-NvzLIHhkUmd2JdCGyvU": {
+      "Date": 1713681019.605526,
+      "Humidity": 51,
+      "Light Intensity": 439.1666666666667,
+      "Temperature": 19
+    },
+    "-NvzNaHNhzWDtc1c4VJD": {
+      "Date": 1713681621.696673,
+      "Humidity": 52,
+      "Light Intensity": 1609.1666666666667,
+      "Temperature": 19
+    },
+    "-NvzPsip6JeubUJC97ro": {
+      "Date": 1713682221.541238,
+      "Humidity": 51,
+      "Light Intensity": 1181.25,
+      "Temperature": 19
+    },
+    "-NvzSAATJVpH1aqCPr5E": {
+      "Date": 1713682821.387584,
+      "Humidity": 51,
+      "Light Intensity": 360,
+      "Temperature": 19
+    },
+    "-NvzUScAqGgcxbG_nGeu": {
+      "Date": 1713683421.234605,
+      "Humidity": 50,
+      "Light Intensity": 417.5,
+      "Temperature": 19
+    },
+    "-NvzWk3ChF4KWNvX-oiQ": {
+      "Date": 1713684021.087523,
+      "Humidity": 50,
+      "Light Intensity": 97.5,
+      "Temperature": 19
+    },
+    "-Nw2X1FG2vEz9W5zCp1k": {
+      "Date": 1713751204.399173,
+      "Humidity": 70,
+      "Light Intensity": 514.1666666666667,
+      "Temperature": 15
+    },
+    "-Nw2ZKvmKX5Z4dxSeHtT": {
+      "Date": 1713751804.247212,
+      "Humidity": 70,
+      "Light Intensity": 27306.25,
+      "Temperature": 15
+    },
+    "-Nw2acNZ8U4Og5k5BQOG": {
+      "Date": 1713752409.148517,
+      "Humidity": 69,
+      "Light Intensity": 2538.75,
+      "Temperature": 15
+    },
+    "-Nw2cupAkNcf6sJtLL4Z": {
+      "Date": 1713753008.999207,
+      "Humidity": 65,
+      "Light Intensity": 580,
+      "Temperature": 17
+    },
+    "-Nw2fCGntaeBB_2o5Lao": {
+      "Date": 1713753608.843551,
+      "Humidity": 62,
+      "Light Intensity": 600,
+      "Temperature": 18
+    },
+    "-Nw2hUiJ_u7bM4ApAuhn": {
+      "Date": 1713754208.690676,
+      "Humidity": 59,
+      "Light Intensity": 431.25,
+      "Temperature": 18
+    },
+    "-Nw2jm9zXZDCwz5bnKT7": {
+      "Date": 1713754808.530883,
+      "Humidity": 57,
+      "Light Intensity": 669.1666666666667,
+      "Temperature": 19
+    },
+    "-Nw2m3bIAVJWDGIVmKWD": {
+      "Date": 1713755408.380712,
+      "Humidity": 57,
+      "Light Intensity": 718.75,
+      "Temperature": 19
+    },
+    "-Nw2oM2p7iUgHLDMZhhM": {
+      "Date": 1713756008.207215,
+      "Humidity": 58,
+      "Light Intensity": 672.0833333333334,
+      "Temperature": 18
+    },
+    "-Nw2qe2esilghUEPQwTH": {
+      "Date": 1713756610.306576,
+      "Humidity": 58,
+      "Light Intensity": 728.75,
+      "Temperature": 18
+    },
+    "-Nw2sx2Rw8LVtix_egx2": {
+      "Date": 1713757212.40677,
+      "Humidity": 57,
+      "Light Intensity": 746.6666666666667,
+      "Temperature": 18
+    },
+    "-Nw2vEV4kG7jLLid7N1N": {
+      "Date": 1713757812.251062,
+      "Humidity": 56,
+      "Light Intensity": 523.75,
+      "Temperature": 18
+    },
+    "-Nw2xWwjwo-K7LNBGrZb": {
+      "Date": 1713758412.100878,
+      "Humidity": 56,
+      "Light Intensity": 498.33333333333337,
+      "Temperature": 18
+    },
+    "-Nw2zoOPNPCpP-qWDCmD": {
+      "Date": 1713759011.950008,
+      "Humidity": 55,
+      "Light Intensity": 560.8333333333334,
+      "Temperature": 19
+    },
+    "-Nw315q0idBO7zTgJzVj": {
+      "Date": 1713759611.803068,
+      "Humidity": 55,
+      "Light Intensity": 485,
+      "Temperature": 19
+    },
+    "-Nw33OHaajvl7gebSg7c": {
+      "Date": 1713760211.651374,
+      "Humidity": 54,
+      "Light Intensity": 903.75,
+      "Temperature": 19
+    },
+    "-Nw35fj5iQaRcCUi14wa": {
+      "Date": 1713760811.487154,
+      "Humidity": 54,
+      "Light Intensity": 540.8333333333334,
+      "Temperature": 19
+    },
+    "-Nw37yAav0h43FSb5aSk": {
+      "Date": 1713761411.330471,
+      "Humidity": 54,
+      "Light Intensity": 495,
+      "Temperature": 19
+    },
+    "-Nw3AFc5l77__T1AKrDZ": {
+      "Date": 1713762011.167569,
+      "Humidity": 54,
+      "Light Intensity": 507.9166666666667,
+      "Temperature": 19
+    },
+    "-Nw3CY4-LzArfiwcBIrv": {
+      "Date": 1713762611.01102,
+      "Humidity": 53,
+      "Light Intensity": 790.4166666666667,
+      "Temperature": 19
+    },
+    "-Nw3Eq3zn7vOWTwebMAo": {
+      "Date": 1713763213.133144,
+      "Humidity": 52,
+      "Light Intensity": 787.5,
+      "Temperature": 19
+    },
+    "-Nw3H83lGmvyI29BLmoo": {
+      "Date": 1713763815.241492,
+      "Humidity": 51,
+      "Light Intensity": 340,
+      "Temperature": 20
+    },
+    "-Nw3JQWJYw5UhN4dYI_s": {
+      "Date": 1713764415.081346,
+      "Humidity": 51,
+      "Light Intensity": 327.9166666666667,
+      "Temperature": 20
+    },
+    "-Nw3LiWEXBONyKFqJW5z": {
+      "Date": 1713765017.181611,
+      "Humidity": 51,
+      "Light Intensity": 314.58333333333337,
+      "Temperature": 20
+    },
+    "-Nw3O-xmCWMCbhZYxQGX": {
+      "Date": 1713765617.034639,
+      "Humidity": 51,
+      "Light Intensity": 298.33333333333337,
+      "Temperature": 19
+    },
+    "-Nw3QIPR-q76FzJwVare": {
+      "Date": 1713766216.88229,
+      "Humidity": 52,
+      "Light Intensity": 416.25,
+      "Temperature": 19
+    },
+    "-Nw3SaPUKao2zZM4yq3D": {
+      "Date": 1713766818.986213,
+      "Humidity": 52,
+      "Light Intensity": 387.5,
+      "Temperature": 19
+    },
+    "-Nw3UtPJkLC4-KuyTXAz": {
+      "Date": 1713767421.099096,
+      "Humidity": 52,
+      "Light Intensity": 466.25,
+      "Temperature": 19
+    },
+    "-Nw3XAqg7PBtB76_hHzv": {
+      "Date": 1713768020.946617,
+      "Humidity": 52,
+      "Light Intensity": 1567.0833333333335,
+      "Temperature": 19
+    },
+    "-Nw3ZTICdQs1EiKeQVAS": {
+      "Date": 1713768620.774408,
+      "Humidity": 52,
+      "Light Intensity": 693.75,
+      "Temperature": 19
+    },
+    "-Nw3alHwKpCdXoVP7it0": {
+      "Date": 1713769222.873877,
+      "Humidity": 52,
+      "Light Intensity": 339.1666666666667,
+      "Temperature": 19
+    },
+    "-Nw7fbQDX2X5JKPcPQW-": {
+      "Date": 1713837602.028936,
+      "Humidity": 72,
+      "Light Intensity": 4005,
+      "Temperature": 14
+    },
+    "-Nw7hv5h3AoGrLCuYZR3": {
+      "Date": 1713838201.884937,
+      "Humidity": 72,
+      "Light Intensity": 27306.25,
+      "Temperature": 14
+    },
+    "-Nw7kCYFnOtXGUHYw55L": {
+      "Date": 1713838806.770245,
+      "Humidity": 72,
+      "Light Intensity": 4574.166666666667,
+      "Temperature": 14
+    },
+    "-Nw7mUzmy2Sqe37qf9Id": {
+      "Date": 1713839406.616648,
+      "Humidity": 68,
+      "Light Intensity": 454.58333333333337,
+      "Temperature": 16
+    },
+    "-Nw7omykoaUfvlYMuHCt": {
+      "Date": 1713840008.708866,
+      "Humidity": 60,
+      "Light Intensity": 443.33333333333337,
+      "Temperature": 19
+    },
+    "-Nw7r4QAwsl5I8gWmbUF": {
+      "Date": 1713840608.498668,
+      "Humidity": 58,
+      "Light Intensity": 285,
+      "Temperature": 19
+    },
+    "-Nw7tNPpIwnb4Uaf7oRo": {
+      "Date": 1713841210.589376,
+      "Humidity": 58,
+      "Light Intensity": 483.33333333333337,
+      "Temperature": 19
+    },
+    "-Nw7vfPmFSSFV5nEH9RP": {
+      "Date": 1713841812.677737,
+      "Humidity": 58,
+      "Light Intensity": 840.4166666666667,
+      "Temperature": 19
+    },
+    "-Nw7xxrJVr0NQEGtJ5bL": {
+      "Date": 1713842412.531848,
+      "Humidity": 58,
+      "Light Intensity": 1237.9166666666667,
+      "Temperature": 19
+    },
+    "-Nw8-FIvSKTTl9wT0oNA": {
+      "Date": 1713843012.372715,
+      "Humidity": 57,
+      "Light Intensity": 756.25,
+      "Temperature": 19
+    },
+    "-Nw81XkRvZSDzYbpIUAm": {
+      "Date": 1713843612.218837,
+      "Humidity": 57,
+      "Light Intensity": 606.6666666666667,
+      "Temperature": 19
+    },
+    "-Nw83pBvCekkeRfGN1OV": {
+      "Date": 1713844212.059493,
+      "Humidity": 56,
+      "Light Intensity": 573.75,
+      "Temperature": 19
+    },
+    "-Nw866dTardkWmTsodqY": {
+      "Date": 1713844811.897244,
+      "Humidity": 55,
+      "Light Intensity": 589.5833333333334,
+      "Temperature": 20
+    },
+    "-Nw88P56Yj9V9macd5Rp": {
+      "Date": 1713845411.740907,
+      "Humidity": 54,
+      "Light Intensity": 616.6666666666667,
+      "Temperature": 20
+    },
+    "-Nw8Ah4zFl_kFKItYQGM": {
+      "Date": 1713846013.843827,
+      "Humidity": 53,
+      "Light Intensity": 729.1666666666667,
+      "Temperature": 20
+    },
+    "-Nw8CzXVmj1YfHExlxOL": {
+      "Date": 1713846613.692476,
+      "Humidity": 52,
+      "Light Intensity": 555.8333333333334,
+      "Temperature": 20
+    },
+    "-Nw8FGyuE4hnD9tTGmIW": {
+      "Date": 1713847213.534108,
+      "Humidity": 52,
+      "Light Intensity": 597.5,
+      "Temperature": 20
+    },
+    "-Nw8HZQAWIZDi4YYBZ7P": {
+      "Date": 1713847813.364372,
+      "Humidity": 52,
+      "Light Intensity": 516.6666666666667,
+      "Temperature": 20
+    },
+    "-Nw8JqrWXuPmFum922gh": {
+      "Date": 1713848413.190429,
+      "Humidity": 52,
+      "Light Intensity": 555,
+      "Temperature": 20
+    },
+    "-Nw8M8J0Z378F3EHkQuP": {
+      "Date": 1713849013.024539,
+      "Humidity": 51,
+      "Light Intensity": 1098.75,
+      "Temperature": 21
+    },
+    "-Nw8ORIl3oq61icY4m_b": {
+      "Date": 1713849615.119488,
+      "Humidity": 50,
+      "Light Intensity": 755,
+      "Temperature": 21
+    },
+    "-Nw8Qikel4quAHnXRGNX": {
+      "Date": 1713850214.960744,
+      "Humidity": 49,
+      "Light Intensity": 366.6666666666667,
+      "Temperature": 21
+    },
+    "-Nw8T0C6BVvl8az6A7HX": {
+      "Date": 1713850814.82245,
+      "Humidity": 48,
+      "Light Intensity": 341.25,
+      "Temperature": 21
+    },
+    "-Nw8VIdfQ-dLMiDD4YIv": {
+      "Date": 1713851414.66101,
+      "Humidity": 48,
+      "Light Intensity": 327.5,
+      "Temperature": 21
+    },
+    "-Nw8XadZizjH5_-wBQUf": {
+      "Date": 1713852016.764258,
+      "Humidity": 48,
+      "Light Intensity": 328.33333333333337,
+      "Temperature": 20
+    },
+    "-Nw8Zt4s72ml1pLlp_AJ": {
+      "Date": 1713852616.6115,
+      "Humidity": 49,
+      "Light Intensity": 502.5,
+      "Temperature": 20
+    },
+    "-Nw8bB4mQbqmAi4Kqn-t": {
+      "Date": 1713853218.692549,
+      "Humidity": 49,
+      "Light Intensity": 385.4166666666667,
+      "Temperature": 20
+    },
+    "-Nw8dTXR4f5Tr6TyZ7it": {
+      "Date": 1713853818.545976,
+      "Humidity": 49,
+      "Light Intensity": 400.83333333333337,
+      "Temperature": 20
+    },
+    "-Nw8fkyyJGOPsn5Eudyy": {
+      "Date": 1713854418.396814,
+      "Humidity": 50,
+      "Light Intensity": 1564.5833333333335,
+      "Temperature": 20
+    },
+    "-Nw8i2QJhSGDv5uD2hU9": {
+      "Date": 1713855018.239309,
+      "Humidity": 50,
+      "Light Intensity": 495,
+      "Temperature": 20
+    },
+    "-Nw8kLQG_ZkWj6ew7wY8": {
+      "Date": 1713855620.324258,
+      "Humidity": 50,
+      "Light Intensity": 307.5,
+      "Temperature": 20
+    },
+    "-NwCpCh5im6VkR4i4R4m": {
+      "Date": 1713924004.197748,
+      "Humidity": 55,
+      "Light Intensity": 767.5,
+      "Temperature": 18
+    },
+    "-NwCrWNlBg0dZjR9JH03": {
+      "Date": 1713924604.060426,
+      "Humidity": 55,
+      "Light Intensity": 27306.25,
+      "Temperature": 18
+    },
+    "-NwCtoNVwy_k7zxam8XE": {
+      "Date": 1713925211.209702,
+      "Humidity": 54,
+      "Light Intensity": 477.9166666666667,
+      "Temperature": 18
+    },
+    "-NwCw5p0SG-bZRZ-R6ic": {
+      "Date": 1713925811.050629,
+      "Humidity": 53,
+      "Light Intensity": 398.33333333333337,
+      "Temperature": 18
+    },
+    "-NwCyOGUlLf44Ce9mgB5": {
+      "Date": 1713926410.892305,
+      "Humidity": 52,
+      "Light Intensity": 898.75,
+      "Temperature": 18
+    },
+    "-NwD-fiB0lEA1PaGUob3": {
+      "Date": 1713927010.723768,
+      "Humidity": 51,
+      "Light Intensity": 708.3333333333334,
+      "Temperature": 19
+    },
+    "-NwD1y9ltg5GXq_MXhtX": {
+      "Date": 1713927610.578467,
+      "Humidity": 51,
+      "Light Intensity": 952.5,
+      "Temperature": 19
+    },
+    "-NwD4FbXu-2GEa8zIjJm": {
+      "Date": 1713928210.425572,
+      "Humidity": 51,
+      "Light Intensity": 1346.6666666666667,
+      "Temperature": 19
+    },
+    "-NwD6Y31pKoxlKF5TEtz": {
+      "Date": 1713928810.281636,
+      "Humidity": 51,
+      "Light Intensity": 895,
+      "Temperature": 19
+    },
+    "-NwD8q2nlOigfDK4GuBC": {
+      "Date": 1713929412.367014,
+      "Humidity": 50,
+      "Light Intensity": 1046.25,
+      "Temperature": 19
+    },
+    "-NwDB82T3Pun9jK3r0Zv": {
+      "Date": 1713930014.471188,
+      "Humidity": 50,
+      "Light Intensity": 786.25,
+      "Temperature": 18
+    },
+    "-NwDDQV2muDhjmKhV-5R": {
+      "Date": 1713930614.299948,
+      "Humidity": 50,
+      "Light Intensity": 1165.8333333333335,
+      "Temperature": 18
+    },
+    "-NwDFhwdpdSZ_S0iwCy3": {
+      "Date": 1713931214.149807,
+      "Humidity": 50,
+      "Light Intensity": 713.3333333333334,
+      "Temperature": 18
+    },
+    "-NwDI-wT_U_aDsAxmaRu": {
+      "Date": 1713931816.248938,
+      "Humidity": 49,
+      "Light Intensity": 502.08333333333337,
+      "Temperature": 18
+    },
+    "-NwDKIO1G4Hq4ddlbbJ1": {
+      "Date": 1713932416.093445,
+      "Humidity": 49,
+      "Light Intensity": 863.75,
+      "Temperature": 18
+    },
+    "-NwDM_pZQy1qV9H5b4_T": {
+      "Date": 1713933015.935481,
+      "Humidity": 48,
+      "Light Intensity": 1035.8333333333335,
+      "Temperature": 18
+    },
+    "-NwDOsGtobSpYBeaDczC": {
+      "Date": 1713933615.777427,
+      "Humidity": 48,
+      "Light Intensity": 777.5,
+      "Temperature": 18
+    },
+    "-NwDR9ipdAXrxvwvUCIy": {
+      "Date": 1713934215.624727,
+      "Humidity": 47,
+      "Light Intensity": 1077.5,
+      "Temperature": 18
+    },
+    "-NwDTSi_Bs26TnK_1wsf": {
+      "Date": 1713934817.725749,
+      "Humidity": 46,
+      "Light Intensity": 775.4166666666667,
+      "Temperature": 18
+    },
+    "-NwDVkABBqA4f0VnAMm2": {
+      "Date": 1713935417.571,
+      "Humidity": 46,
+      "Light Intensity": 635.8333333333334,
+      "Temperature": 18
+    },
+    "-NwDY1bmaRTmKwDKQviV": {
+      "Date": 1713936017.416829,
+      "Humidity": 46,
+      "Light Intensity": 913.3333333333334,
+      "Temperature": 18
+    },
+    "-NwD_K3VzxCm8SQq0QIM": {
+      "Date": 1713936617.264643,
+      "Humidity": 46,
+      "Light Intensity": 397.08333333333337,
+      "Temperature": 18
+    },
+    "-NwDbbWBUzcZhh6-I8fU": {
+      "Date": 1713937217.117073,
+      "Humidity": 46,
+      "Light Intensity": 352.9166666666667,
+      "Temperature": 18
+    },
+    "-NwDdtxtKopyot6rKO8L": {
+      "Date": 1713937816.980863,
+      "Humidity": 46,
+      "Light Intensity": 335.4166666666667,
+      "Temperature": 18
+    },
+    "-NwDgBQ-2Ep6aTBalM2g": {
+      "Date": 1713938416.828943,
+      "Humidity": 46,
+      "Light Intensity": 302.9166666666667,
+      "Temperature": 18
+    },
+    "-NwDiTrjdQaBMVqah-xi": {
+      "Date": 1713939016.705408,
+      "Humidity": 46,
+      "Light Intensity": 303.75,
+      "Temperature": 18
+    },
+    "-NwDklJMixOTouTXqPKr": {
+      "Date": 1713939616.560946,
+      "Humidity": 47,
+      "Light Intensity": 345.4166666666667,
+      "Temperature": 18
+    },
+    "-NwDn2kxP5P2HAOvE6G0": {
+      "Date": 1713940216.40493,
+      "Humidity": 47,
+      "Light Intensity": 363.33333333333337,
+      "Temperature": 18
+    },
+    "-NwDpLCWObQz_ut6triF": {
+      "Date": 1713940816.251511,
+      "Humidity": 47,
+      "Light Intensity": 800,
+      "Temperature": 18
+    },
+    "-NwDrce6USUunMJDugBq": {
+      "Date": 1713941416.094423,
+      "Humidity": 48,
+      "Light Intensity": 405.4166666666667,
+      "Temperature": 18
+    },
+    "-NwDtv5r125pbAnLeATw": {
+      "Date": 1713942015.940521,
+      "Humidity": 48,
+      "Light Intensity": 404.1666666666667,
+      "Temperature": 18
+    },
+    "-NwHymfiEZlxyOBDzkNZ": {
+      "Date": 1714010401.027915,
+      "Humidity": 58,
+      "Light Intensity": 1312.5,
+      "Temperature": 11
+    },
+    "-NwI05uJRegaw_c4-juk": {
+      "Date": 1714011003.129768,
+      "Humidity": 56,
+      "Light Intensity": 20693.333333333336,
+      "Temperature": 12
+    },
+    "-NwI2Ou8-HooX1Tae51u": {
+      "Date": 1714011610.273279,
+      "Humidity": 52,
+      "Light Intensity": 527.9166666666667,
+      "Temperature": 15
+    },
+    "-NwI4gLopR2sZPb46kVB": {
+      "Date": 1714012210.120928,
+      "Humidity": 49,
+      "Light Intensity": 438.75,
+      "Temperature": 16
+    },
+    "-NwI6ynYXtLxNqWQmQXe": {
+      "Date": 1714012809.977538,
+      "Humidity": 48,
+      "Light Intensity": 642.0833333333334,
+      "Temperature": 16
+    },
+    "-NwI9GFFgCeNB8bLdAR3": {
+      "Date": 1714013409.827179,
+      "Humidity": 48,
+      "Light Intensity": 754.1666666666667,
+      "Temperature": 16
+    },
+    "-NwIBYguIU36aOW2m_ju": {
+      "Date": 1714014009.681494,
+      "Humidity": 47,
+      "Light Intensity": 405,
+      "Temperature": 16
+    },
+    "-NwIDq8XZ1OSeGJd22EH": {
+      "Date": 1714014609.530699,
+      "Humidity": 47,
+      "Light Intensity": 697.5,
+      "Temperature": 16
+    },
+    "-NwIG7aCY_III8NFTSeV": {
+      "Date": 1714015209.379251,
+      "Humidity": 47,
+      "Light Intensity": 718.75,
+      "Temperature": 16
+    },
+    "-NwIIQa-6rePmvJzH4bt": {
+      "Date": 1714015811.485228,
+      "Humidity": 47,
+      "Light Intensity": 619.1666666666667,
+      "Temperature": 16
+    },
+    "-NwIKi_i-insyQ-hUWaL": {
+      "Date": 1714016413.583863,
+      "Humidity": 45,
+      "Light Intensity": 502.9166666666667,
+      "Temperature": 16
+    },
+    "-NwIN024jRqk7ln0V-AB": {
+      "Date": 1714017013.421511,
+      "Humidity": 44,
+      "Light Intensity": 483.33333333333337,
+      "Temperature": 16
+    },
+    "-NwIPIUkIKYED4sy569Q": {
+      "Date": 1714017613.319544,
+      "Humidity": 43,
+      "Light Intensity": 2545,
+      "Temperature": 16
+    },
+    "-NwIR_wg4TC-kypSlVWo": {
+      "Date": 1714018213.16809,
+      "Humidity": 43,
+      "Light Intensity": 541.25,
+      "Temperature": 16
+    },
+    "-NwITswc3XMa6Ml3EOIC": {
+      "Date": 1714018815.2895,
+      "Humidity": 43,
+      "Light Intensity": 519.1666666666667,
+      "Temperature": 16
+    },
+    "-NwIWAwSufuFtKkNEwUU": {
+      "Date": 1714019417.400909,
+      "Humidity": 40,
+      "Light Intensity": 517.5,
+      "Temperature": 16
+    },
+    "-NwIYTO1KzGalRoPtiTr": {
+      "Date": 1714020017.247049,
+      "Humidity": 39,
+      "Light Intensity": 540.4166666666667,
+      "Temperature": 16
+    },
+    "-NwI_kpZLKVssQJrPty_": {
+      "Date": 1714020617.090987,
+      "Humidity": 38,
+      "Light Intensity": 725.8333333333334,
+      "Temperature": 16
+    },
+    "-NwIc2HDIlBaOVhtipYI": {
+      "Date": 1714021216.934679,
+      "Humidity": 38,
+      "Light Intensity": 512.5,
+      "Temperature": 16
+    },
+    "-NwIeKijmqni9YMx15VW": {
+      "Date": 1714021816.784071,
+      "Humidity": 38,
+      "Light Intensity": 932.9166666666667,
+      "Temperature": 16
+    },
+    "-NwIgcA7756mUnUXEEr0": {
+      "Date": 1714022416.621482,
+      "Humidity": 38,
+      "Light Intensity": 675.8333333333334,
+      "Temperature": 17
+    },
+    "-NwIiubdZMbIpfAgVZLJ": {
+      "Date": 1714023016.455835,
+      "Humidity": 37,
+      "Light Intensity": 327.9166666666667,
+      "Temperature": 16
+    },
+    "-NwIlC47RI4qeKMMbp_M": {
+      "Date": 1714023616.295694,
+      "Humidity": 37,
+      "Light Intensity": 315.4166666666667,
+      "Temperature": 16
+    },
+    "-NwInUWs2Fd3jzCLfZsi": {
+      "Date": 1714024216.200774,
+      "Humidity": 37,
+      "Light Intensity": 298.75,
+      "Temperature": 16
+    },
+    "-NwIpmWqyZr-RCpagb6x": {
+      "Date": 1714024818.31347,
+      "Humidity": 37,
+      "Light Intensity": 294.58333333333337,
+      "Temperature": 16
+    },
+    "-NwIs3yl63ge4l3H27W2": {
+      "Date": 1714025418.169441,
+      "Humidity": 37,
+      "Light Intensity": 255.41666666666669,
+      "Temperature": 16
+    },
+    "-NwIuMQopPzDaV24CpQY": {
+      "Date": 1714026018.033763,
+      "Humidity": 37,
+      "Light Intensity": 361.25,
+      "Temperature": 16
+    },
+    "-NwIwdteOh82g2BI7XDC": {
+      "Date": 1714026617.905682,
+      "Humidity": 37,
+      "Light Intensity": 414.1666666666667,
+      "Temperature": 16
+    },
+    "-NwIywucBDDFuzCJ0Qr9": {
+      "Date": 1714027220.100775,
+      "Humidity": 37,
+      "Light Intensity": 831.25,
+      "Temperature": 16
+    },
+    "-NwJ0EMMqYIHIqj6ja7E": {
+      "Date": 1714027820.009531,
+      "Humidity": 36,
+      "Light Intensity": 374.58333333333337,
+      "Temperature": 16
+    },
+    "-NwJ2WoBcpi4PaDD0LnT": {
+      "Date": 1714028419.864042,
+      "Humidity": 36,
+      "Light Intensity": 411.25,
+      "Temperature": 15
+    },
+    "-NwJ4oFnwgCQ8e8Voyyo": {
+      "Date": 1714029019.72406,
+      "Humidity": 36,
+      "Light Intensity": 187.91666666666669,
+      "Temperature": 15
+    },
+    "-NwN7NI-0mN4rJpdq5tk": {
+      "Date": 1714096800.481151,
+      "Humidity": 73,
+      "Light Intensity": 5171.25,
+      "Temperature": 9
+    },
+    "-NwN9fyDPrBfdFxXHfPb": {
+      "Date": 1714097400.317146,
+      "Humidity": 73,
+      "Light Intensity": 2858.75,
+      "Temperature": 9
+    },
+    "-NwNByPhWcWj-yNHfr6i": {
+      "Date": 1714098005.195269,
+      "Humidity": 69,
+      "Light Intensity": 466.25,
+      "Temperature": 10
+    },
+    "-NwNEFrOXrLjU2ND7Ipb": {
+      "Date": 1714098605.043313,
+      "Humidity": 63,
+      "Light Intensity": 356.6666666666667,
+      "Temperature": 12
+    },
+    "-NwNGYInPzJ72rZRrlt_": {
+      "Date": 1714099204.886106,
+      "Humidity": 56,
+      "Light Intensity": 368.33333333333337,
+      "Temperature": 14
+    },
+    "-NwNIqIKrrDPexk4UcgP": {
+      "Date": 1714099806.972787,
+      "Humidity": 47,
+      "Light Intensity": 410.83333333333337,
+      "Temperature": 15
+    },
+    "-NwNL8HxCpYDVFybyHL1": {
+      "Date": 1714100409.056692,
+      "Humidity": 45,
+      "Light Intensity": 403.75,
+      "Temperature": 15
+    },
+    "-NwNNQjEqfrJhi5pPgLf": {
+      "Date": 1714101008.888762,
+      "Humidity": 44,
+      "Light Intensity": 1007.5,
+      "Temperature": 16
+    },
+    "-NwNPiAYQmX8Bngak65V": {
+      "Date": 1714101608.721832,
+      "Humidity": 45,
+      "Light Intensity": 501.6666666666667,
+      "Temperature": 16
+    },
+    "-NwNS-byrQhCgNCvwFcN": {
+      "Date": 1714102208.544026,
+      "Humidity": 45,
+      "Light Intensity": 871.25,
+      "Temperature": 16
+    },
+    "-NwNUI3MBbmZqZj7RaFg": {
+      "Date": 1714102808.38281,
+      "Humidity": 45,
+      "Light Intensity": 490,
+      "Temperature": 16
+    },
+    "-NwNWa3Q66PESMbHsXW0": {
+      "Date": 1714103410.488464,
+      "Humidity": 44,
+      "Light Intensity": 502.5,
+      "Temperature": 17
+    },
+    "-NwNYt3IzeWhNJkL8Hi_": {
+      "Date": 1714104012.584251,
+      "Humidity": 44,
+      "Light Intensity": 670,
+      "Temperature": 17
+    },
+    "-NwNaAVlJrc2P9RN89Iv": {
+      "Date": 1714104612.433887,
+      "Humidity": 43,
+      "Light Intensity": 653.75,
+      "Temperature": 17
+    },
+    "-NwNcSxFDnda3aMa7W4w": {
+      "Date": 1714105212.273124,
+      "Humidity": 43,
+      "Light Intensity": 697.5,
+      "Temperature": 17
+    },
+    "-NwNekO_gGcfuCTGtZVF": {
+      "Date": 1714105812.110608,
+      "Humidity": 43,
+      "Light Intensity": 552.9166666666667,
+      "Temperature": 17
+    },
+    "-NwNh1q1CeCq8kou2opm": {
+      "Date": 1714106411.937183,
+      "Humidity": 42,
+      "Light Intensity": 513.3333333333334,
+      "Temperature": 17
+    },
+    "-NwNjKpgmDTagDZYG8a9": {
+      "Date": 1714107014.028009,
+      "Humidity": 42,
+      "Light Intensity": 827.0833333333334,
+      "Temperature": 17
+    },
+    "-NwNlcH9bbS3OG3MkMCu": {
+      "Date": 1714107613.868415,
+      "Humidity": 41,
+      "Light Intensity": 548.3333333333334,
+      "Temperature": 17
+    },
+    "-NwNnuiVEAH_X-GUFIT2": {
+      "Date": 1714108213.70401,
+      "Humidity": 41,
+      "Light Intensity": 753.3333333333334,
+      "Temperature": 17
+    },
+    "-NwNqC9wbs1_PGMRVFbB": {
+      "Date": 1714108813.537393,
+      "Humidity": 41,
+      "Light Intensity": 901.25,
+      "Temperature": 17
+    },
+    "-NwNsUbJXOjeZj914RMF": {
+      "Date": 1714109413.36839,
+      "Humidity": 41,
+      "Light Intensity": 360,
+      "Temperature": 17
+    },
+    "-NwNum2ekptjIsuiqCTg": {
+      "Date": 1714110013.20389,
+      "Humidity": 41,
+      "Light Intensity": 321.25,
+      "Temperature": 17
+    },
+    "-NwNx3VJbTo7W5K1y8HJ": {
+      "Date": 1714110613.028743,
+      "Humidity": 40,
+      "Light Intensity": 311.6666666666667,
+      "Temperature": 17
+    },
+    "-NwNzLwtIQGvmqkMh2Y-": {
+      "Date": 1714111212.882496,
+      "Humidity": 40,
+      "Light Intensity": 305.83333333333337,
+      "Temperature": 17
+    },
+    "-NwO0dON9jHRTzhwZ-Xk": {
+      "Date": 1714111812.727387,
+      "Humidity": 40,
+      "Light Intensity": 273.33333333333337,
+      "Temperature": 17
+    },
+    "-NwO2wcmTARoZiELTAyb": {
+      "Date": 1714112414.8204,
+      "Humidity": 40,
+      "Light Intensity": 417.9166666666667,
+      "Temperature": 17
+    },
+    "-NwO5E4Rqg0QP6z59yaQ": {
+      "Date": 1714113015.673714,
+      "Humidity": 41,
+      "Light Intensity": 326.6666666666667,
+      "Temperature": 17
+    },
+    "-NwO7X46dYxg-UcdV8gm": {
+      "Date": 1714113617.768537,
+      "Humidity": 41,
+      "Light Intensity": 752.9166666666667,
+      "Temperature": 17
+    },
+    "-NwO9oWRsPkr2p-7DNuR": {
+      "Date": 1714114217.6052,
+      "Humidity": 40,
+      "Light Intensity": 452.08333333333337,
+      "Temperature": 17
+    },
+    "-NwOC5xxZCtUe3hpLlbx": {
+      "Date": 1714114817.431702,
+      "Humidity": 40,
+      "Light Intensity": 457.9166666666667,
+      "Temperature": 17
+    },
+    "-NwSGyeZ36dPusukGhAB": {
+      "Date": 1714183203.018834,
+      "Humidity": 63,
+      "Light Intensity": 10061.25,
+      "Temperature": 15
+    },
+    "-NwSJHL7eVbDFx_hLSAy": {
+      "Date": 1714183802.847661,
+      "Humidity": 63,
+      "Light Intensity": 3447.5,
+      "Temperature": 15
+    },
+    "-NwSL_L9Dd-cmQbIeRDu": {
+      "Date": 1714184410.009398,
+      "Humidity": 61,
+      "Light Intensity": 711.6666666666667,
+      "Temperature": 15
+    },
+    "-NwSNsL0AWQ6M1yHmzRZ": {
+      "Date": 1714185012.125323,
+      "Humidity": 58,
+      "Light Intensity": 605,
+      "Temperature": 16
+    },
+    "-NwSQ9mVR_cxfzvmHlSH": {
+      "Date": 1714185611.966775,
+      "Humidity": 57,
+      "Light Intensity": 647.0833333333334,
+      "Temperature": 16
+    },
+    "-NwSSSERN8qKYOpIW7B1": {
+      "Date": 1714186211.805987,
+      "Humidity": 57,
+      "Light Intensity": 719.1666666666667,
+      "Temperature": 16
+    },
+    "-NwSUkENn0Xv7Rvya6TB": {
+      "Date": 1714186813.934647,
+      "Humidity": 56,
+      "Light Intensity": 923.75,
+      "Temperature": 17
+    },
+    "-NwSX2EAwO2IxEVXfZSd": {
+      "Date": 1714187416.038348,
+      "Humidity": 55,
+      "Light Intensity": 896.25,
+      "Temperature": 17
+    },
+    "-NwSZLE7XOfO65mAvJBm": {
+      "Date": 1714188018.137956,
+      "Humidity": 53,
+      "Light Intensity": 891.25,
+      "Temperature": 17
+    },
+    "-NwSacfqPwiK0oHqLgkp": {
+      "Date": 1714188618.000967,
+      "Humidity": 53,
+      "Light Intensity": 754.5833333333334,
+      "Temperature": 17
+    },
+    "-NwScv7RehOyUd3S6NHf": {
+      "Date": 1714189217.847506,
+      "Humidity": 52,
+      "Light Intensity": 965.4166666666667,
+      "Temperature": 18
+    },
+    "-NwSfD76lF5U05AOCnNc": {
+      "Date": 1714189819.94175,
+      "Humidity": 50,
+      "Light Intensity": 869.5833333333334,
+      "Temperature": 18
+    },
+    "-NwShVZXpWUspjUD4B75": {
+      "Date": 1714190419.78128,
+      "Humidity": 50,
+      "Light Intensity": 1468.3333333333335,
+      "Temperature": 18
+    },
+    "-NwSjn04cpmsyrVzuVCl": {
+      "Date": 1714191019.612545,
+      "Humidity": 49,
+      "Light Intensity": 974.5833333333334,
+      "Temperature": 18
+    },
+    "-NwSm5-jxmKMeYEr2pRt": {
+      "Date": 1714191621.71323,
+      "Humidity": 48,
+      "Light Intensity": 873.3333333333334,
+      "Temperature": 18
+    },
+    "-NwSoNS7cxrfBRUNHdev": {
+      "Date": 1714192221.548312,
+      "Humidity": 48,
+      "Light Intensity": 820.8333333333334,
+      "Temperature": 18
+    },
+    "-NwSqfRn40xeQ_vfDyjn": {
+      "Date": 1714192823.634552,
+      "Humidity": 47,
+      "Light Intensity": 828.75,
+      "Temperature": 19
+    },
+    "-NwSsyRO8sk23HucvHYt": {
+      "Date": 1714193425.724932,
+      "Humidity": 46,
+      "Light Intensity": 1058.3333333333335,
+      "Temperature": 19
+    },
+    "-NwSvFsw6vDUBmmMup3b": {
+      "Date": 1714194025.556648,
+      "Humidity": 46,
+      "Light Intensity": 740.4166666666667,
+      "Temperature": 19
+    },
+    "-NwSxYsjSN9zyju3e47Q": {
+      "Date": 1714194627.653259,
+      "Humidity": 46,
+      "Light Intensity": 984.5833333333334,
+      "Temperature": 19
+    },
+    "-NwSzqKEL1eKihG7gbGm": {
+      "Date": 1714195227.498603,
+      "Humidity": 46,
+      "Light Intensity": 1195.4166666666667,
+      "Temperature": 19
+    },
+    "-NwT17lnP_F-MjTgMllD": {
+      "Date": 1714195827.338064,
+      "Humidity": 46,
+      "Light Intensity": 601.25,
+      "Temperature": 19
+    },
+    "-NwT3QD98yxoY0gPYSQQ": {
+      "Date": 1714196427.183037,
+      "Humidity": 45,
+      "Light Intensity": 608.75,
+      "Temperature": 19
+    },
+    "-NwT5he_Ys9N5s9BzU_G": {
+      "Date": 1714197027.008912,
+      "Humidity": 45,
+      "Light Intensity": 519.1666666666667,
+      "Temperature": 19
+    },
+    "-NwT8-6AuiHtSMM70ZX5": {
+      "Date": 1714197626.847715,
+      "Humidity": 46,
+      "Light Intensity": 452.5,
+      "Temperature": 19
+    },
+    "-NwTAI6-ee8U0pazdB0b": {
+      "Date": 1714198228.949555,
+      "Humidity": 46,
+      "Light Intensity": 412.5,
+      "Temperature": 18
+    },
+    "-NwTC_YQ_KMjMK0eTrj0": {
+      "Date": 1714198828.794205,
+      "Humidity": 47,
+      "Light Intensity": 544.1666666666667,
+      "Temperature": 18
+    },
+    "-NwTErzeh-PA9pOAqUmx": {
+      "Date": 1714199428.629863,
+      "Humidity": 47,
+      "Light Intensity": 440.83333333333337,
+      "Temperature": 18
+    },
+    "-NwTH9R0NtYgLwx4IC60": {
+      "Date": 1714200028.450631,
+      "Humidity": 48,
+      "Light Intensity": 717.5,
+      "Temperature": 18
+    },
+    "-NwTJSQeVUvRLesrI0Lj": {
+      "Date": 1714200630.538608,
+      "Humidity": 48,
+      "Light Intensity": 250.41666666666669,
+      "Temperature": 18
+    },
+    "-NwTLjrx1DZDwS3NHgN4": {
+      "Date": 1714201230.374656,
+      "Humidity": 49,
+      "Light Intensity": 252.5,
+      "Temperature": 18
+    },
+    "-NwTO1JLgQ-_VjzfmLef": {
+      "Date": 1714201830.198171,
+      "Humidity": 49,
+      "Light Intensity": 153.75,
+      "Temperature": 17
+    },
+    "-NwTQJkq58WNsSQU4eN3": {
+      "Date": 1714202430.03366,
+      "Humidity": 49,
+      "Light Intensity": 62.91666666666667,
+      "Temperature": 17
+    },
+    "-NwTSbC5Kuosb8nJRhAq": {
+      "Date": 1714203029.873892,
+      "Humidity": 50,
+      "Light Intensity": 22.916666666666668,
+      "Temperature": 17
+    },
+    "-NwXQZ6u_gZW1p04Bl9G": {
+      "Date": 1714269601.837735,
+      "Humidity": 59,
+      "Light Intensity": 11845,
+      "Temperature": 17
+    },
+    "-NwXSrnswQuF4RrN-gg7": {
+      "Date": 1714270201.672743,
+      "Humidity": 59,
+      "Light Intensity": 885.8333333333334,
+      "Temperature": 17
+    },
+    "-NwXV9FXY77XL2c4ZsId": {
+      "Date": 1714270806.602669,
+      "Humidity": 57,
+      "Light Intensity": 601.6666666666667,
+      "Temperature": 18
+    },
+    "-NwXXSFe2OIZKxpGS_hp": {
+      "Date": 1714271408.703115,
+      "Humidity": 52,
+      "Light Intensity": 480.4166666666667,
+      "Temperature": 18
+    },
+    "-NwXZjhRHK8DT6HybjXf": {
+      "Date": 1714272008.579032,
+      "Humidity": 50,
+      "Light Intensity": 718.75,
+      "Temperature": 18
+    },
+    "-NwXb194HZEsa0k2uIx1": {
+      "Date": 1714272608.440218,
+      "Humidity": 50,
+      "Light Intensity": 840.8333333333334,
+      "Temperature": 18
+    },
+    "-NwXdJaqoXFZyQ9pfnuI": {
+      "Date": 1714273208.301454,
+      "Humidity": 50,
+      "Light Intensity": 727.9166666666667,
+      "Temperature": 18
+    },
+    "-NwXfb2lDlYznEmWW8u6": {
+      "Date": 1714273808.171083,
+      "Humidity": 51,
+      "Light Intensity": 971.25,
+      "Temperature": 18
+    },
+    "-NwXhtVyRtjzd0jTRnuF": {
+      "Date": 1714274408.047063,
+      "Humidity": 52,
+      "Light Intensity": 980.4166666666667,
+      "Temperature": 18
+    },
+    "-NwXkAz6sKkgyfAQnYm7": {
+      "Date": 1714275007.887008,
+      "Humidity": 52,
+      "Light Intensity": 1001.6666666666667,
+      "Temperature": 18
+    },
+    "-NwXmTR3otnBpq0rkksQ": {
+      "Date": 1714275607.815402,
+      "Humidity": 52,
+      "Light Intensity": 767.0833333333334,
+      "Temperature": 18
+    },
+    "-NwXoksra6AN8OSuXdJ5": {
+      "Date": 1714276207.677695,
+      "Humidity": 52,
+      "Light Intensity": 682.9166666666667,
+      "Temperature": 19
+    },
+    "-NwXr2KrrtluQ5rg2-Dw": {
+      "Date": 1714276807.544206,
+      "Humidity": 51,
+      "Light Intensity": 1050.8333333333335,
+      "Temperature": 19
+    },
+    "-NwXtKmdQh9GQGadyz2X": {
+      "Date": 1714277407.414992,
+      "Humidity": 49,
+      "Light Intensity": 681.25,
+      "Temperature": 19
+    },
+    "-NwXvcmd0NquFh2HIIU_": {
+      "Date": 1714278009.527026,
+      "Humidity": 45,
+      "Light Intensity": 601.25,
+      "Temperature": 19
+    },
+    "-NwXxvEpi9IFDhoQkEb8": {
+      "Date": 1714278609.403024,
+      "Humidity": 43,
+      "Light Intensity": 594.5833333333334,
+      "Temperature": 20
+    },
+    "-NwY-CgNKSNQ3fh6Mi90": {
+      "Date": 1714279209.267007,
+      "Humidity": 43,
+      "Light Intensity": 600.4166666666667,
+      "Temperature": 20
+    },
+    "-NwY1V83lGxvJWOY7w8h": {
+      "Date": 1714279809.107163,
+      "Humidity": 42,
+      "Light Intensity": 588.75,
+      "Temperature": 20
+    },
+    "-NwY3maP0tB5HCsx9Hxj": {
+      "Date": 1714280408.964515,
+      "Humidity": 42,
+      "Light Intensity": 577.9166666666667,
+      "Temperature": 20
+    },
+    "-NwY642k33hvYw6Bq2VC": {
+      "Date": 1714281008.879837,
+      "Humidity": 42,
+      "Light Intensity": 488.33333333333337,
+      "Temperature": 20
+    },
+    "-NwY8NFCa164-R3KbP4T": {
+      "Date": 1714281611.002485,
+      "Humidity": 42,
+      "Light Intensity": 982.9166666666667,
+      "Temperature": 20
+    },
+    "-NwYAelmJHr6_k6-GGJj": {
+      "Date": 1714282211.657627,
+      "Humidity": 42,
+      "Light Intensity": 760,
+      "Temperature": 20
+    },
+    "-NwYCxDcBG7dHWaX_tOn": {
+      "Date": 1714282811.827013,
+      "Humidity": 42,
+      "Light Intensity": 733.3333333333334,
+      "Temperature": 20
+    },
+    "-NwYFEfROGY6OIbhegmN": {
+      "Date": 1714283411.686447,
+      "Humidity": 42,
+      "Light Intensity": 551.6666666666667,
+      "Temperature": 20
+    },
+    "-NwYHX7EJc3tpmjxzLVp": {
+      "Date": 1714284011.548514,
+      "Humidity": 42,
+      "Light Intensity": 410.83333333333337,
+      "Temperature": 20
+    },
+    "-NwYJoZozbAfXGIvmjDF": {
+      "Date": 1714284611.418415,
+      "Humidity": 43,
+      "Light Intensity": 371.6666666666667,
+      "Temperature": 19
+    },
+    "-NwYM627FPQdTlh7OXxq": {
+      "Date": 1714285211.250337,
+      "Humidity": 43,
+      "Light Intensity": 445.83333333333337,
+      "Temperature": 19
+    },
+    "-NwYOOV1nIgGssFvqth8": {
+      "Date": 1714285811.210607,
+      "Humidity": 44,
+      "Light Intensity": 391.25,
+      "Temperature": 19
+    },
+    "-NwYQfweCU9KpLLspECg": {
+      "Date": 1714286411.074123,
+      "Humidity": 44,
+      "Light Intensity": 550.8333333333334,
+      "Temperature": 19
+    },
+    "-NwYSywcXYIs8EBaSTvq": {
+      "Date": 1714287013.174865,
+      "Humidity": 45,
+      "Light Intensity": 395.4166666666667,
+      "Temperature": 19
+    },
+    "-NwYVGwzAxEnSVOxOKZ5": {
+      "Date": 1714287615.309734,
+      "Humidity": 45,
+      "Light Intensity": 189.58333333333334,
+      "Temperature": 19
+    },
+    "-NwYXZOrofhjUfcPnnad": {
+      "Date": 1714288215.166549,
+      "Humidity": 46,
+      "Light Intensity": 100.83333333333334,
+      "Temperature": 19
+    },
+    "-NwYZqqoRqy9T-D32PLQ": {
+      "Date": 1714288815.031166,
+      "Humidity": 46,
+      "Light Intensity": 50.833333333333336,
+      "Temperature": 19
+    }
+  }
+}
