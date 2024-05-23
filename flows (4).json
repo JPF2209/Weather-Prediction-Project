@@ -1,0 +1,51 @@
+[
+    {
+        "id": "f9dccae92511b405",
+        "type": "switch",
+        "z": "0caf29687ed00774",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "btwn",
+                "v": "12",
+                "vt": "num",
+                "v2": "16",
+                "v2t": "num"
+            },
+            {
+                "t": "eq",
+                "v": "17",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "11",
+                "vt": "str"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "false",
+        "repair": false,
+        "outputs": 4,
+        "x": 810,
+        "y": 760,
+        "wires": [
+            [
+                "00982dde859af24e"
+            ],
+            [
+                "0de4d7ac501449cf"
+            ],
+            [
+                "0de4d7ac501449cf"
+            ],
+            [
+                "751a26752bbcab42"
+            ]
+        ]
+    }
+]
